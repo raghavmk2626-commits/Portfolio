@@ -14,7 +14,7 @@ function App() {
       description: "Comprehensive mental health app designed to provide accessible support, meditation resources, and mood tracking. Focused on creating a safe, calming user experience.",
       image: project1,
       tags: ["Mobile App", "Mental Health", "Wellness"],
-      year: "2026",
+      year: "2025",
       link: "https://www.figma.com/proto/qNoMIyDuLfBhT6bKOkk3Ju/Untitled?node-id=2010-174&p=f&t=VoQwCcJb6cP47gAX-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2010%3A174"
     },
     {
@@ -22,8 +22,22 @@ function App() {
       description: "On-demand service platform connecting users with service providers. Streamlined booking process with real-time tracking and secure payments.",
       image: project2,
       tags: ["Mobile App", "Service Platform", "UX Design"],
-      year: "2026",
+      year: "2025",
       link: "https://www.figma.com/proto/vWCdN39TRdy0fTpSlynazD/Untitled?node-id=17-398&p=f&t=4ZfMqW8wrObXuupK-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=17%3A398&device-frame=0"
+    },
+    {
+    title: "Book Library (Full Stack)",
+    description: "Full stack web application for managing books with CRUD operations.",
+    image: project1,
+    tags: ["Full Stack", "Web App", "CRUD"],
+    year: "2025"
+    },
+    {
+    title: "Legal Justice Predictor",
+    description: "Machine learning project that predicts legal outcomes using historical data.",
+    image: project2,
+    tags: ["Machine Learning", "AI", "Prediction"],
+    year: "2026"
     }
   ];
 
@@ -57,6 +71,16 @@ function App() {
       icon: Braces,
       title: "JavaScript",
       description: "Adding interactivity and logic to websites."
+    },
+    {
+    icon: Braces,
+    title: "TypeScript",
+    description: "Writing scalable and type-safe frontend code."
+    },
+    {
+    icon: FileCode,
+    title: "React",
+    description: "Building reusable UI components and modern interfaces."
     }
   ];
 
@@ -80,7 +104,7 @@ function App() {
                 <h3 className="text-xl">BE Computer Science and Design</h3>
                 <span className="text-gray-600">2022-2026</span>
               </div>
-              <p className="text-gray-600">KEC</p>
+              <p className="text-gray-600">Kongu Engineering College</p>
               <p className="text-gray-900 mt-1">CGPA: 7.09</p>
             </div>
 
@@ -90,7 +114,7 @@ function App() {
                 <span className="text-gray-600">2021-2022</span>
               </div>
               <p className="text-gray-600">Sri Nachammal Vidyavani School</p>
-              <p className="text-gray-900 mt-1">Percentage: 75.6%</p>
+              <p className="text-gray-900 mt-1">Percentage: 70.6%</p>
             </div>
 
             <div className="border-l-4 border-gray-900 pl-6 py-2">
@@ -99,7 +123,7 @@ function App() {
                 <span className="text-gray-600">2019-2020</span>
               </div>
               <p className="text-gray-600">Sri Nachammal Vidyavani School</p>
-              <p className="text-gray-900 mt-1">Percentage: 80.6%</p>
+              <p className="text-gray-900 mt-1">Percentage: 81.6%</p>
             </div>
           </div>
         </div>
