@@ -8,18 +8,19 @@ export function Hero() {
   };
 
   return (
-    <section className="min-h-screen flex items-center justify-center px-6 pt-20">
+
+    <section className="min-h-screen flex items-center justify-center px-6 pt-24 md:pt-20">
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-6 inline-block px-4 py-2 bg-gray-100 rounded-full text-sm">
-          👋 Available for freelance projects
+          💼 Career Objective
         </div>
-        
-        <h1 className="text-5xl md:text-7xl mb-6 tracking-tight">
+        <h1 className="text-5xl md:text-7xl font-semibold mb-6 tracking-tight">
           Raghav M K
-        </h1>
-        
-        <p className="text-xl md:text-2xl text-gray-600 mb-12 max-w-2xl mx-auto">
-          UI/UX Designer creating delightful digital experiences through thoughtful design, user research, and creative problem-solving
+        </h1>   
+        <p className="text-lg md:text-xl text-gray-600 mb-12 max-w-3xl mx-auto leading-relaxed">
+          Frontend Developer with a strong interest in UI/UX design, dedicated to building intuitive, responsive, 
+          and visually appealing web experiences. Proficient in HTML, CSS, JavaScript, and React, with a focus on performance, 
+          accessibility, and seamless user interaction.
         </p>
 
         <div className="flex items-center justify-center gap-4">
