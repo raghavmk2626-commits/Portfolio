@@ -8,7 +8,7 @@ import { ProjectCard } from './components/ProjectCard';
 import { SkillCard } from './components/SkillCard';
 import { Button } from './components/ui/button';
 import { Mail, Linkedin, Github, Figma, Palette, Users, Zap, Smartphone, Layout, FileCode, Braces} from 'lucide-react';
-
+<h1>test update</h1>
 function App() {
   const projects = [
     {
