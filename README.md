@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-  # Portfolio Page
-
-  This is a code bundle for Portfolio Page. The original project is available at https://www.figma.com/design/OxOQy2dBTPdqgeLxq3VVgQ/Portfolio-Page.
 
   ## Running the code
 
